@@ -10,7 +10,7 @@
 
 
 Переходим в директорию проекта:
-`cd moduleE4_homework`  
+`cd TEMP_E001`  
 и запускаем :
 `docker-compose up -d` 
 
