@@ -5,10 +5,8 @@
 
 
 После установки docker, загружаем проект :
-`git clone https://github.com/Ivan-Gormatov/moduleE4_homework.git`
 
-
-`git https://github.com/muroshkin88/TEMP_E001clone .git`
+`git clone https://github.com/muroshkin88/TEMP_E001.git`
 
 
 Переходим в директорию проекта:
