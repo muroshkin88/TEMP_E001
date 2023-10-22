@@ -8,6 +8,9 @@
 `git clone https://github.com/Ivan-Gormatov/moduleE4_homework.git`
 
 
+`git https://github.com/muroshkin88/TEMP_E001clone .git`
+
+
 Переходим в директорию проекта:
 `cd moduleE4_homework`  
 и запускаем :
