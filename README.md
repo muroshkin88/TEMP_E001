@@ -5,17 +5,12 @@
 GitHub репозиторий:
 https://github.com/muroshkin88/TEMP_E001
 
-====================
-====================
 
 https://hub.docker.com/repository/docker/muroshkin88/my_project/general
 
----------------
 username: dj
 password: qwertyu1
 
-===================
-===================
 
 Если Docker не установлен, то установливаем его командой: `curl -fsSL https://get.docker.com/ | sh`  
 и Compose : `sudo apt  install docker-compose`
