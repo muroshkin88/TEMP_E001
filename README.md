@@ -9,6 +9,7 @@ https://github.com/muroshkin88/TEMP_E001
 https://hub.docker.com/repository/docker/muroshkin88/my_project/general
 
 username: dj
+
 password: qwertyu1
 
 
